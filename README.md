@@ -10,7 +10,7 @@ This project allows users to create and perform different operations on 1D, 2D a
 It provides functionalities such as array indexing, slicing, mathematical operations, combining and splitting arrays, searching, sorting, filtering and statistical calculations.
 
 The project uses NumPy for numerical computations and a menu-driven interface to allow users to perform different operations interactively.
-Video Demonstration Video Link: 
+Video Demonstration Video Link: https://drive.google.com/file/d/1ld3PO9P13IhaphT9vPquWrF5UX_ZZdU6/view?usp=sharing
 
 ## 🎯 Objectives
 
